@@ -20,7 +20,7 @@ and other fields that explore the future of tech._
       **linkdin** : https://www.linkedin.com/in/elisha-otobi-889577195/ 
       **email** : eotobi@gmail.com
 - ⚡ Fun fact:
-- 
+
       **Sports:** _Soccer_
       **Book:** _Dreams from my father by former POTUS, Barack Obama_
       **Car:** _Jeep Rubicon_
