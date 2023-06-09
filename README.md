@@ -19,10 +19,9 @@ and other fields that explore the future of tech._
 - 📫 How to reach me: 
       **linkdin** : https://www.linkedin.com/in/elisha-otobi-889577195/ 
       **email** : eotobi@gmail.com
-- ⚡ Fun fact: 
-      **Sports:**: Soccer
-      **Book:** Dreams from my father by former POTUS, Barack Obama
-      **Car:** Jeep Rubicon
-      **Movie:** The Matrix, Now You See Me, Pirates of the Carribean
-      **Holiday Destination:** : Maldives, Ibiza, Havanna, Rusinga, Seychelles, Silicon Valley
--->
+- ⚡ Fun fact:
+      **Sports:** _Soccer_
+      **Book:** _Dreams from my father by former POTUS, Barack Obama_
+      **Car:** _Jeep Rubicon_
+      **Movie:** _The Matrix, Now You See Me, Pirates of the Carribean_
+      **Holiday Destination:** : _Maldives, Ibiza, Havanna, Rusinga, Seychelles, Silicon Valley_
