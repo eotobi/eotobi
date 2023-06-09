@@ -1,11 +1,11 @@
 ### Hi there 👋
+```I am a hardcore Fullstack Engineer with experience and passion in creating React Js and Python (Django and Flask) applications.
+```I am a problem solver, critical thinker and I thrive in environments the challenge me.
+```I like researching on Artificial Intelligence, Virtual Reality, Internet of Things and other fields that explore the future of tech.
 
-<!--
-**eotobi/eotobi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on a Python project that automates the process of collecting data from
+      pdf and handwritten forms and thereafter
+      give a detailed analysis that 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
