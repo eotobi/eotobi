@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-_I am a hardcore **Fullstack Engineer** with experience and passion in 
+_I am a **Fullstack Engineer** with experience and passion in 
 creating **React Js and Python (Django and Flask)** applications._
 
 _I am a problem solver, critical thinker and I thrive in environments 
