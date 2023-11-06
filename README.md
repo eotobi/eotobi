@@ -9,9 +9,6 @@ _I like researching on Artificial Intelligence, Virtual Reality, Internet of Thi
 - 👯 I’m looking to collaborate in any Android, Python (Django or Flask) and React JS project.
 - 🤔 I’m looking for help with learning how to incoparate Machine Learning Models and Algorithms with Django, Flask.
 - 💬 Ask me about anything to do with Python, Django, Django Rest Framework, Flask, React JS and Javascript.
-- 📫 How to reach me: 
-      **linkdin** : https://www.linkedin.com/in/elisha-otobi-889577195/ 
-      **email** : eotobi@gmail.com
 - ⚡ Fun fact:
       **Sports:** _Soccer_
       **Book:** _Dreams from my father by former POTUS, Barack Obama_
